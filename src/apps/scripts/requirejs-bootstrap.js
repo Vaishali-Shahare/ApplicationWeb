@@ -1,3 +1,1 @@
-require(['requirejs-config'], function(){
-	
-});
+require(['requirejs-config']);
