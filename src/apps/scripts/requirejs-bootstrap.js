@@ -1,0 +1,3 @@
+require(['requirejs-config'], function(){
+	
+});
