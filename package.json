@@ -1,0 +1,24 @@
+{
+  "name": "applicationweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaishali-Shahare/ApplicationWeb.git"
+  },
+  "author": "Ritesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaishali-Shahare/ApplicationWeb/issues"
+  },
+  "homepage": "https://github.com/Vaishali-Shahare/ApplicationWeb#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
